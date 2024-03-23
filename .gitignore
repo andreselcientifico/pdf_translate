@@ -1,0 +1,7 @@
+#virtualvenv
+env/
+
+#pdf
+*.pdf
+
+#python
